@@ -1,0 +1,20 @@
+{
+  "name": "refactory-scrap-challenge",
+  "version": "1.0.0",
+  "author": "Mulia Arifandi Nasution <mul14.net@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "main": "scrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mul14/refactory-scrap-challenge.git"
+  },
+  "dependencies": {
+    "axios": "^0.15.3",
+    "html-to-text": "^3.0.0"
+  },
+  "devDependencies": {},
+}
